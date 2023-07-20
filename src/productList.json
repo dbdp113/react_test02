@@ -1,0 +1,111 @@
+[
+    {
+      "id": "1",
+      "name": "Springs Robot",
+      "detail": "Super Springs Robot",
+      "price": 70,
+      "imageUrl": "./images/robot1.png",
+      "ration": 3,
+      "kind":"Sergeant"
+    },
+    {
+      "id": "2",
+      "name": "Sergeant Robot",
+      "detail": "Super Sergeant Robot",
+      "price": 129,
+      "imageUrl": "./images/robot2.png",
+      "ration":5 ,
+      "kind":"Dolly"
+    },
+    {
+      "id": "3",
+      "name": "River Robot",
+      "detail": "Super River Robot",
+      "price": 91,
+      "imageUrl": "./images/robot3.png",
+      "ration":4 ,
+      "kind":"Sergeant"
+    },
+    {
+      "id": "4",
+      "name": "Rex Robot",
+      "detail": "Super Rex Robot",
+      "price": 47,
+      "imageUrl": "./images/robot4.png",
+      "ration": 2,
+      "kind":"Dolly"
+    },
+    {
+      "id": "5",
+      "name": "Portman Robot",
+      "detail": "Super Portman Robot",
+      "price": 95,
+      "imageUrl": "./images/robot5.png",
+      "ration": 1,
+      "kind":"Dolly"
+    },
+    {
+      "id": "6",
+      "name": "Levi Robot",
+      "detail": "Super Levi Robot",
+      "price": 89,
+      "imageUrl": "./images/robot6.png",
+      "ration": 2,
+      "kind":"Sergeant"
+    },
+    {
+      "id": "7",
+      "name": "Fred Robot",
+      "detail": "Super Fred Robot",
+      "price": 45,
+      "imageUrl": "./images/robot7.png",
+      "ration": 4,
+      "kind":"Dolly"
+    },
+    {
+      "id": "8",
+      "name": "Elton Robot",
+      "detail": "Super Elton Robot",
+      "price": 12,
+      "imageUrl": "./images/robot8.png",
+      "ration": 6,
+      "kind":"Dolly"
+    },
+    {
+      "id": "9",
+      "name": "Eileen Robot",
+      "detail": "Super Eileen Robot",
+      "price": 39,
+      "imageUrl": "./images/robot9.png",
+      "ration": 4,
+      "kind":"Sergeant"
+    },
+    {
+      "id": "10",
+      "name": "Dolores Robot",
+      "detail": "Super Dolores Robot",
+      "price": 102,
+      "imageUrl": "./images/robot10.png",
+      "ration": 3,
+      "kind":"Dolly"
+    },
+    {
+      "id": "11",
+      "name": "Dolly Robot",
+      "detail": "Super Dolly Robot",
+      "price": 82,
+      "imageUrl": "./images/robot11.png",
+      "ration":2 ,
+      "kind":"Dolly"
+    },
+    {
+      "id": "12",
+      "name": "Bubbles Robot",
+      "detail": "Super Bubbles Robot",
+      "price": 55,
+      "imageUrl": "./images/robot12.png",
+      "ration": 7,
+      "kind":"Sergeant"
+    }
+  ]
+
